@@ -1,0 +1,13 @@
+{
+  "name": "fetch-swr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Lonely-bear<https://github.com/Lonely-bear>",
+  "license": "MIT",
+  "description": "A plugin to fetch data and cache it with a delay",
+  "keywords": ["swr", "fetch", "swr-fetch", "swr-cache", "cache", "request", "vue", "react"],
+  "dependencies": {
+    "localforage": "^1.10.0"
+  }
+}
