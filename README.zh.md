@@ -1,4 +1,5 @@
-- [中文](README.zh.md) | - [English](README.md)
+[中文](README.zh.md) | - [English](README.md)
+
 # Fetch Swr
 
 一个轻量级的npm包，它简化了从API获取数据的过程，同时提供了使用LocalForage在本地缓存结果的选项。
