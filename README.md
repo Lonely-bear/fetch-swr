@@ -1,3 +1,5 @@
+[中文](README.zh.md) | [English](README.md)
+
 # Fetch Swr
 
 A lightweight npm package that simplifies fetching data from APIs while providing an option to cache the results locally using LocalForage.
